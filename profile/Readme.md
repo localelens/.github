@@ -95,12 +95,3 @@ Feedback is welcome — especially from developers who:
 
 ---
 
-## Next Steps
-
-If you want, we can:
-
-- Tighten this further for open-source credibility
-- Add a "Not for you if…" section (very powerful)
-- Write per-repo README templates so everything stays consistent
-
-Just tell me how public/open you want this to feel.
